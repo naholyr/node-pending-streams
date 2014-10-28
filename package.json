@@ -14,5 +14,20 @@
   },
   "dependencies": {
     "debug": "^2.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naholyr/node-pending-streams.git"
+  },
+  "keywords": [
+    "streams",
+    "fs",
+    "pending",
+    "writable",
+    "readable"
+  ],
+  "bugs": {
+    "url": "https://github.com/naholyr/node-pending-streams/issues"
+  },
+  "homepage": "https://github.com/naholyr/node-pending-streams"
 }
